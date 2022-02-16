@@ -2,3 +2,5 @@ this is my first practice with github
 This is my first practice with github remote and local repository
 This is my best practice
 This is very good working with github
+Adding lines from local repository
+then will repeat same steps like using git add and git commit commands
