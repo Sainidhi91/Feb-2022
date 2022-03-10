@@ -9,4 +9,4 @@ who gona come next and how they gona act with us
 its unimmaginable
 made a mistake
 now rectified it
-
+Practicing jenkins using triggers
