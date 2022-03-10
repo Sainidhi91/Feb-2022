@@ -10,3 +10,4 @@ its unimmaginable
 made a mistake
 now rectified it
 Practicing jenkins using triggers
+poc trigger
